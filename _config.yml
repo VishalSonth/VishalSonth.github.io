@@ -1,31 +1,20 @@
-title: Title of your CV site
-profile_img: /assets/img/profile.webp
-icon_img: /assets/img/icon.webp
+profile_img: assets/img/profile.webp
+icon_img: assets/img/icon.webp
 
-name: "Your Name Here"
-job: "〈Your Job Here〉"
+name: "Vishal Sonth"
+job: "AI Strategist | LLM & Prompt Engineering Expert"
 
-phone_number: 012-345-6789
-address: City, Country
-email: email@example.com
-linkedin_username: linkedin
-github_username: github
-instagram_username: instagram
-twitter_username: twitter
-facebook_username: facebook
-youtube_username: youtube
-blog_url: homepage-url
+phone_number: "+39 328 631 9162"
+address: "Naples, Italy, 80139"
+email: "vishu.sonth@gmail.com"
 
-# If your repo name follows the format "<user-name>.github.io", then leave the below blank.
-# Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
-baseurl:
+linkedin_username: ""
+github_username: "VishalSonth"
+website: "https://VishalSonth.github.io"
 
-exclude:
-  - _posts/
-  - resources/
-  - vendor/
-
+baseurl: ""
+url: "https://VishalSonth.github.io"
+markdown: kramdown
+theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
