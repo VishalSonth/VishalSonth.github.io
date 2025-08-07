@@ -1,22 +1,51 @@
-subject: Experiences
+subject: "Experience"
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: "AI Research Fellow – Generative AI & LLM Strategy"
+    date: "Feb 2025 – Jul 2025"
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
-    description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
-    description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - "Università degli Studi di Napoli Parthenope, Naples, Italy"
+      - "Designed and implemented LLM-driven tools for public engagement in education, increasing user interaction by 200%."
+      - "Developed AI maturity evaluation frameworks to support responsible institutional adoption of generative AI."
+      - "Authored strategic documentation and collaborated cross-functionally to deploy ethical AI systems." :contentReference[oaicite:0]{index=0}
+  - title: "AI Intern – Chatbot Innovation & Prompt Optimization"
+    date: "Apr 2024 – Jun 2024"
+    description:
+      - "Netcom Group, Naples, Italy"
+      - "Built production-ready chatbots using prompt-tuned LLMs for business communication workflows."
+      - "Improved response consistency and contextual accuracy by 30% through refined prompt engineering methods."
+      - "Assisted in user testing and automation rollout across departments." :contentReference[oaicite:1]{index=1}
+  - title: "AI Researcher – Predictive Modeling in Embedded Systems"
+    date: "Feb 2024 – Jul 2024"
+    description:
+      - "Micron International Academy, Naples, Italy"
+      - "Applied machine learning to predict faults in embedded memory systems, improving diagnostic efficiency by 45%."
+      - "Designed test modules integrating Verilog and AI for real-time error prediction."
+      - "Collaborated with engineers on proof-of-concept simulations." :contentReference[oaicite:2]{index=2}
+  - title: "iOS Developer Intern"
+    date: "Sep 2022 – Jun 2023"
+    description:
+      - "Apple Developer Academy (Powered by Apple Inc.), Naples, Italy"
+      - "Designed and developed user-centric mobile apps using Swift and REST APIs."
+      - "Practiced Agile and Scrum methodologies in fast-paced development sprints."
+      - "Worked in a multicultural team on prototypes aligned with Apple design principles." :contentReference[oaicite:3]{index=3}
+  - title: "Integration Specialist – Workforce Platform Engineering"
+    date: "Jul 2021 – Sep 2021"
+    description:
+      - "Harri Software and Solutions, Hyderabad, India"
+      - "Reduced data synchronization delays by 80% across HR systems through optimized SQL-based integrations."
+      - "Mapped workflow gaps between platforms to enable seamless real-time updates." :contentReference[oaicite:4]{index=4}
+  - title: "Business Analyst – SaaS Transformation & Process Automation"
+    date: "Feb 2019 – Jul 2021"
+    description:
+      - "Sutisoft Private Limited, Hyderabad, India"
+      - "Delivered 15+ enterprise SaaS projects with less than 5% post-implementation errors."
+      - "Identified automation opportunities that saved up to ₹70 L annually for clients."
+      - "Led cross-functional workshops for client onboarding and UAT feedback." :contentReference[oaicite:5]{index=5}
+  - title: "GIS Analyst – Location Intelligence"
+    date: "Feb 2018 – Feb 2019"
+    description:
+      - "Wipro Technologies, Hyderabad, India"
+      - "Supported Google Maps geo-tagging pipelines for the APAC region."
+      - "Improved location data accuracy by analyzing satellite imagery and map inconsistencies." :contentReference[oaicite:6]{index=6}
