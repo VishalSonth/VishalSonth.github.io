@@ -1,0 +1,13 @@
+subject: "Contact"
+listing-order: 8
+icon: "/assets/img/envelope.svg"
+contents:
+  - title: "Get in Touch"
+    description:
+      - "<p>Hi, I'm Vishal Sonth. You can email me directly at <a href='mailto:vishu.sonth@gmail.com'>vishu.sonth@gmail.com</a>, or send me a message below:</p>"
+      - "<form action='https://formspree.io/f/xqalgkwy' method='POST'>"
+      - "  <p><input type='text' name='name' placeholder='Your Name' required></p>"
+      - "  <p><input type='email' name='_replyto' placeholder='Your Email' required></p>"
+      - "  <p><textarea name='message' placeholder='Your Message' required></textarea></p>"
+      - "  <p><button type='submit'>Send Message</button></p>"
+      - "</form>"
