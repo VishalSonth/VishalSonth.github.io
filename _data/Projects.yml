@@ -1,21 +1,16 @@
-subject: Projects
+subject: "Projects"
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
-    description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
-    description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
-    description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+  - title: "SIDU Explainability Framework"
+    description:
+      - "Novel post-hoc method (Similarity, Difference & Uniqueness) for interpreting CNN black-box models."
+      - "Benchmarked against SHAP and LIME, improving AI transparency in education and healthcare."
+  - title: "ALES: LLM in Education"
+    description:
+      - "Developed a European LLM platform for civic engagement with strategic prompt design."
+      - "Aligned with Horizon Europe’s AI for Public Good initiative to support public sector use cases."
+  - title: "Prompt Optimization Toolkit"
+    description:
+      - "Internal toolkit for fine-tuning and validating prompts, reducing hallucinations by 30%."
+      - "Streamlined prompt engineering workflows for consistent LLM performance across teams."
